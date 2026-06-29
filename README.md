@@ -1,3 +1,5 @@
+<center><img src="aset/2474830.jpg"></img></center>
+
 # Dashboard_Power_BI
 
 Project ini bertujuan untuk membuat dashboard terkait dengan AdventureWorks_Sample_Dataset
